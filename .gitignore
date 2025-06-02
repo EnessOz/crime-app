@@ -1,0 +1,33 @@
+# Node.js modülleri - asla Git'e ekleme
+node_modules/
+
+# Derleme çıktı klasörü (build)
+build/
+
+# Çevresel değişkenler dosyası (genellikle gizlidir)
+.env
+
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS sistem dosyaları
+.DS_Store
+
+# Windows sistem dosyaları
+Thumbs.db
+ehthumbs.db
+
+# IDE ve editör dosyaları (örneğin VSCode)
+.vscode/
+
+# Test coverage dosyaları
+coverage/
+
+# Paket kilit dosyaları (bunları istersen ekleyebilirsin)
+# package-lock.json
+# yarn.lock
+
+# Diğer geçici dosyalar
+*.log

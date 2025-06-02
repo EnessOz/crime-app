@@ -1,0 +1,93 @@
+[
+    {
+      "tip": "Hırsız",
+      "zeka": 6,
+      "ceviklik": 9,
+      "guc": 3,
+      "karizma": 4,
+      "teknik": 9,
+      "sogukkanlilik": 5,
+      "suc_bilgisi": 4
+    },
+    {
+      "tip": "Dolandırıcı",
+      "zeka": 9,
+      "ceviklik": 4,
+      "guc": 2,
+      "karizma": 10,
+      "teknik": 6,
+      "sogukkanlilik": 5,
+      "suc_bilgisi": 4
+    },
+    {
+      "tip": "Katil",
+      "zeka": 5,
+      "ceviklik": 5,
+      "guc": 9,
+      "karizma": 3,
+      "teknik": 3,
+      "sogukkanlilik": 8,
+      "suc_bilgisi": 7
+    },
+    {
+      "tip": "Mafya Üyesi",
+      "zeka": 6,
+      "ceviklik": 3,
+      "guc": 8,
+      "karizma": 6,
+      "teknik": 4,
+      "sogukkanlilik": 6,
+      "suc_bilgisi": 7
+    },
+    {
+      "tip": "Kaçakçı",
+      "zeka": 7,
+      "ceviklik": 5,
+      "guc": 6,
+      "karizma": 5,
+      "teknik": 5,
+      "sogukkanlilik": 6,
+      "suc_bilgisi": 6
+    },
+    {
+      "tip": "Siber Suçlu",
+      "zeka": 10,
+      "ceviklik": 2,
+      "guc": 2,
+      "karizma": 5,
+      "teknik": 10,
+      "sogukkanlilik": 4,
+      "suc_bilgisi": 5
+    },
+    {
+      "tip": "Suikastçı",
+      "zeka": 7,
+      "ceviklik": 8,
+      "guc": 6,
+      "karizma": 2,
+      "teknik": 4,
+      "sogukkanlilik": 8,
+      "suc_bilgisi": 5
+    },
+    {
+      "tip": "Kumarhane Sahtekârı",
+      "zeka": 8,
+      "ceviklik": 4,
+      "guc": 3,
+      "karizma": 9,
+      "teknik": 6,
+      "sogukkanlilik": 5,
+      "suc_bilgisi": 5
+    },
+    {
+      "tip": "Yasa Dışı Yarışçı",
+      "zeka": 5,
+      "ceviklik": 10,
+      "guc": 5,
+      "karizma": 4,
+      "teknik": 6,
+      "sogukkanlilik": 4,
+      "suc_bilgisi": 6
+    }
+  ]
+  
