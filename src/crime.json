@@ -1,111 +1,110 @@
 [
-    {
-      "isim": "Market Soygunu",
-      "gereksinimler": {
-        "zeka": 5,
-        "ceviklik": 8,
-        "guc": 3,
-        "karizma": 4,
-        "teknik": 7,
-        "sogukkanlilik": 5,
-        "suc_bilgisi": 5
-      }
-    },
-    {
-      "isim": "Telefonda Banka Dolandırıcılığı",
-      "gereksinimler": {
-        "zeka": 9,
-        "ceviklik": 3,
-        "guc": 2,
-        "karizma": 9,
-        "teknik": 5,
-        "sogukkanlilik": 5,
-        "suc_bilgisi": 4
-      }
-    },
-    {
-      "isim": "Soğukkanlı Cinayet",
-      "gereksinimler": {
-        "zeka": 5,
-        "ceviklik": 4,
-        "guc": 9,
-        "karizma": 3,
-        "teknik": 3,
-        "sogukkanlilik": 8,
-        "suc_bilgisi": 7
-      }
-    },
-    {
-      "isim": "Koruma Parası Toplama",
-      "gereksinimler": {
-        "zeka": 6,
-        "ceviklik": 4,
-        "guc": 8,
-        "karizma": 6,
-        "teknik": 4,
-        "sogukkanlilik": 6,
-        "suc_bilgisi": 6
-      }
-    },
-    {
-      "isim": "Sınırdan Mal Geçirme",
-      "gereksinimler": {
-        "zeka": 7,
-        "ceviklik": 5,
-        "guc": 6,
-        "karizma": 4,
-        "teknik": 5,
-        "sogukkanlilik": 6,
-        "suc_bilgisi": 6
-      }
-    },
-    {
-      "isim": "Banka Sistemine Sızma",
-      "gereksinimler": {
-        "zeka": 10,
-        "ceviklik": 2,
-        "guc": 2,
-        "karizma": 5,
-        "teknik": 10,
-        "sogukkanlilik": 4,
-        "suc_bilgisi": 5
-      }
-    },
-    {
-      "isim": "Sessiz Suikast",
-      "gereksinimler": {
-        "zeka": 7,
-        "ceviklik": 8,
-        "guc": 6,
-        "karizma": 2,
-        "teknik": 4,
-        "sogukkanlilik": 8,
-        "suc_bilgisi": 5
-      }
-    },
-    {
-      "isim": "Kumarhane Dolandırıcılığı",
-      "gereksinimler": {
-        "zeka": 8,
-        "ceviklik": 4,
-        "guc": 3,
-        "karizma": 9,
-        "teknik": 6,
-        "sogukkanlilik": 5,
-        "suc_bilgisi": 5
-      }
-    },
-    {
-      "isim": "Şehir Yarışı",
-      "gereksinimler": {
-        "zeka": 5,
-        "ceviklik": 10,
-        "guc": 5,
-        "karizma": 4,
-        "teknik": 6,
-        "sogukkanlilik": 4,
-        "suc_bilgisi": 5
-      }
+  {
+    "name": "Market Robbery",
+    "requirements": {
+      "intelligence": 5,
+      "agility": 8,
+      "strength": 3,
+      "charisma": 4,
+      "technicalSkill": 7,
+      "composure": 5,
+      "crimeKnowledge": 5
     }
-  ]
-  
+  },
+  {
+    "name": "Phone Bank Fraud",
+    "requirements": {
+      "intelligence": 9,
+      "agility": 3,
+      "strength": 2,
+      "charisma": 9,
+      "technicalSkill": 5,
+      "composure": 5,
+      "crimeKnowledge": 4
+    }
+  },
+  {
+    "name": "Cold-blooded Murder",
+    "requirements": {
+      "intelligence": 5,
+      "agility": 4,
+      "strength": 9,
+      "charisma": 3,
+      "technicalSkill": 3,
+      "composure": 8,
+      "crimeKnowledge": 7
+    }
+  },
+  {
+    "name": "Protection Money Collection",
+    "requirements": {
+      "intelligence": 6,
+      "agility": 4,
+      "strength": 8,
+      "charisma": 6,
+      "technicalSkill": 4,
+      "composure": 6,
+      "crimeKnowledge": 6
+    }
+  },
+  {
+    "name": "Smuggling Across Border",
+    "requirements": {
+      "intelligence": 7,
+      "agility": 5,
+      "strength": 6,
+      "charisma": 4,
+      "technicalSkill": 5,
+      "composure": 6,
+      "crimeKnowledge": 6
+    }
+  },
+  {
+    "name": "Bank System Hacking",
+    "requirements": {
+      "intelligence": 10,
+      "agility": 2,
+      "strength": 2,
+      "charisma": 5,
+      "technicalSkill": 10,
+      "composure": 4,
+      "crimeKnowledge": 5
+    }
+  },
+  {
+    "name": "Silent Assassination",
+    "requirements": {
+      "intelligence": 7,
+      "agility": 8,
+      "strength": 6,
+      "charisma": 2,
+      "technicalSkill": 4,
+      "composure": 8,
+      "crimeKnowledge": 5
+    }
+  },
+  {
+    "name": "Casino Fraud",
+    "requirements": {
+      "intelligence": 8,
+      "agility": 4,
+      "strength": 3,
+      "charisma": 9,
+      "technicalSkill": 6,
+      "composure": 5,
+      "crimeKnowledge": 5
+    }
+  },
+  {
+    "name": "City Race",
+    "requirements": {
+      "intelligence": 5,
+      "agility": 10,
+      "strength": 5,
+      "charisma": 4,
+      "technicalSkill": 6,
+      "composure": 4,
+      "crimeKnowledge": 5
+    }
+  }
+]

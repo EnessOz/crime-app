@@ -1,93 +1,101 @@
 [
-    {
-      "tip": "Hırsız",
-      "zeka": 6,
-      "ceviklik": 9,
-      "guc": 3,
-      "karizma": 4,
-      "teknik": 9,
-      "sogukkanlilik": 5,
-      "suc_bilgisi": 4
-    },
-    {
-      "tip": "Dolandırıcı",
-      "zeka": 9,
-      "ceviklik": 4,
-      "guc": 2,
-      "karizma": 10,
-      "teknik": 6,
-      "sogukkanlilik": 5,
-      "suc_bilgisi": 4
-    },
-    {
-      "tip": "Katil",
-      "zeka": 5,
-      "ceviklik": 5,
-      "guc": 9,
-      "karizma": 3,
-      "teknik": 3,
-      "sogukkanlilik": 8,
-      "suc_bilgisi": 7
-    },
-    {
-      "tip": "Mafya Üyesi",
-      "zeka": 6,
-      "ceviklik": 3,
-      "guc": 8,
-      "karizma": 6,
-      "teknik": 4,
-      "sogukkanlilik": 6,
-      "suc_bilgisi": 7
-    },
-    {
-      "tip": "Kaçakçı",
-      "zeka": 7,
-      "ceviklik": 5,
-      "guc": 6,
-      "karizma": 5,
-      "teknik": 5,
-      "sogukkanlilik": 6,
-      "suc_bilgisi": 6
-    },
-    {
-      "tip": "Siber Suçlu",
-      "zeka": 10,
-      "ceviklik": 2,
-      "guc": 2,
-      "karizma": 5,
-      "teknik": 10,
-      "sogukkanlilik": 4,
-      "suc_bilgisi": 5
-    },
-    {
-      "tip": "Suikastçı",
-      "zeka": 7,
-      "ceviklik": 8,
-      "guc": 6,
-      "karizma": 2,
-      "teknik": 4,
-      "sogukkanlilik": 8,
-      "suc_bilgisi": 5
-    },
-    {
-      "tip": "Kumarhane Sahtekârı",
-      "zeka": 8,
-      "ceviklik": 4,
-      "guc": 3,
-      "karizma": 9,
-      "teknik": 6,
-      "sogukkanlilik": 5,
-      "suc_bilgisi": 5
-    },
-    {
-      "tip": "Yasa Dışı Yarışçı",
-      "zeka": 5,
-      "ceviklik": 10,
-      "guc": 5,
-      "karizma": 4,
-      "teknik": 6,
-      "sogukkanlilik": 4,
-      "suc_bilgisi": 6
-    }
-  ]
-  
+  {
+    "type": "Thief",
+    "intelligence": 6,
+    "agility": 9,
+    "strength": 3,
+    "charisma": 4,
+    "technicalSkill": 9,
+    "composure": 5,
+    "crimeKnowledge": 4,
+    "reputation": 0
+  },
+  {
+    "type": "Con Artist",
+    "intelligence": 9,
+    "agility": 4,
+    "strength": 2,
+    "charisma": 10,
+    "technicalSkill": 6,
+    "composure": 5,
+    "crimeKnowledge": 4,
+    "reputation": 0
+  },
+  {
+    "type": "Killer",
+    "intelligence": 5,
+    "agility": 5,
+    "strength": 9,
+    "charisma": 3,
+    "technicalSkill": 3,
+    "composure": 8,
+    "crimeKnowledge": 7,
+    "reputation": 0
+  },
+  {
+    "type": "Mafia Member",
+    "intelligence": 6,
+    "agility": 3,
+    "strength": 8,
+    "charisma": 6,
+    "technicalSkill": 4,
+    "composure": 6,
+    "crimeKnowledge": 7,
+    "reputation": 0
+  },
+  {
+    "type": "Smuggler",
+    "intelligence": 7,
+    "agility": 5,
+    "strength": 6,
+    "charisma": 5,
+    "technicalSkill": 5,
+    "composure": 6,
+    "crimeKnowledge": 6,
+    "reputation": 0
+  },
+  {
+    "type": "Cyber Criminal",
+    "intelligence": 10,
+    "agility": 2,
+    "strength": 2,
+    "charisma": 5,
+    "technicalSkill": 10,
+    "composure": 4,
+    "crimeKnowledge": 5,
+    "reputation": 0
+  },
+  {
+    "type": "Assassin",
+    "intelligence": 7,
+    "agility": 8,
+    "strength": 6,
+    "charisma": 2,
+    "technicalSkill": 4,
+    "composure": 8,
+    "crimeKnowledge": 5,
+    "reputation": 0
+  },
+  {
+    "type": "Casino Cheater",
+    "intelligence": 8,
+    "agility": 4,
+    "strength": 3,
+    "charisma": 9,
+    "technicalSkill": 6,
+    "composure": 5,
+    "crimeKnowledge": 5,
+    "reputation": 0
+  },
+  {
+    "type": "Illegal Racer",
+    "intelligence": 5,
+    "agility": 10,
+    "strength": 5,
+    "charisma": 4,
+    "technicalSkill": 6,
+    "composure": 4,
+    "crimeKnowledge": 6,
+    "reputation": 0
+  }
+]
